@@ -1,0 +1,1542 @@
+{
+  "data_source": "Synthetic demonstration only",
+  "summary": {
+    "revenue_ngn": 13401800.0,
+    "units": 5519,
+    "sales_days": 120,
+    "posts": 36,
+    "summed_post_reach": 42958,
+    "engagement_rate_pct": 3.62,
+    "click_to_lead_pct": 23.14,
+    "cost_per_lead_ngn": 116.07
+  },
+  "groups": [
+    {
+      "platform": "Facebook",
+      "format": "Reel",
+      "posts": 6,
+      "reach": 4766,
+      "interactions": 262,
+      "engagement_rate_pct": 5.5,
+      "clicks": 97,
+      "leads": 28
+    },
+    {
+      "platform": "Instagram",
+      "format": "Reel",
+      "posts": 6,
+      "reach": 6820,
+      "interactions": 375,
+      "engagement_rate_pct": 5.5,
+      "clicks": 142,
+      "leads": 35
+    },
+    {
+      "platform": "Instagram",
+      "format": "Carousel",
+      "posts": 6,
+      "reach": 8523,
+      "interactions": 350,
+      "engagement_rate_pct": 4.11,
+      "clicks": 114,
+      "leads": 25
+    },
+    {
+      "platform": "Facebook",
+      "format": "Carousel",
+      "posts": 6,
+      "reach": 6907,
+      "interactions": 283,
+      "engagement_rate_pct": 4.1,
+      "clicks": 103,
+      "leads": 24
+    },
+    {
+      "platform": "Facebook",
+      "format": "Image",
+      "posts": 6,
+      "reach": 8329,
+      "interactions": 150,
+      "engagement_rate_pct": 1.8,
+      "clicks": 156,
+      "leads": 39
+    },
+    {
+      "platform": "Instagram",
+      "format": "Image",
+      "posts": 6,
+      "reach": 7613,
+      "interactions": 137,
+      "engagement_rate_pct": 1.8,
+      "clicks": 114,
+      "leads": 17
+    }
+  ],
+  "recommendations": [
+    "Test another Reel on Facebook; it has the highest grouped engagement rate in these records. Compare lead outcomes too."
+  ],
+  "daily": [
+    {
+      "date": "2026-07-01",
+      "revenue": 112200.0
+    },
+    {
+      "date": "2026-07-02",
+      "revenue": 107800.0
+    },
+    {
+      "date": "2026-07-03",
+      "revenue": 85800.0
+    },
+    {
+      "date": "2026-07-04",
+      "revenue": 132000.0
+    },
+    {
+      "date": "2026-07-05",
+      "revenue": 164700.0
+    },
+    {
+      "date": "2026-07-06",
+      "revenue": 110400.0
+    },
+    {
+      "date": "2026-07-07",
+      "revenue": 125000.0
+    },
+    {
+      "date": "2026-07-08",
+      "revenue": 115000.0
+    },
+    {
+      "date": "2026-07-09",
+      "revenue": 82500.0
+    },
+    {
+      "date": "2026-07-10",
+      "revenue": 118800.0
+    },
+    {
+      "date": "2026-07-11",
+      "revenue": 120000.0
+    },
+    {
+      "date": "2026-07-12",
+      "revenue": 122500.0
+    },
+    {
+      "date": "2026-07-13",
+      "revenue": 94600.0
+    },
+    {
+      "date": "2026-07-14",
+      "revenue": 92500.0
+    },
+    {
+      "date": "2026-07-15",
+      "revenue": 83600.0
+    },
+    {
+      "date": "2026-07-16",
+      "revenue": 110700.0
+    },
+    {
+      "date": "2026-07-17",
+      "revenue": 84000.0
+    },
+    {
+      "date": "2026-07-18",
+      "revenue": 117500.0
+    },
+    {
+      "date": "2026-07-19",
+      "revenue": 141600.0
+    },
+    {
+      "date": "2026-07-20",
+      "revenue": 99900.0
+    },
+    {
+      "date": "2026-07-21",
+      "revenue": 110400.0
+    },
+    {
+      "date": "2026-07-22",
+      "revenue": 94500.0
+    },
+    {
+      "date": "2026-07-23",
+      "revenue": 110000.0
+    },
+    {
+      "date": "2026-07-24",
+      "revenue": 88000.0
+    },
+    {
+      "date": "2026-07-25",
+      "revenue": 124800.0
+    },
+    {
+      "date": "2026-07-26",
+      "revenue": 140400.0
+    },
+    {
+      "date": "2026-07-27",
+      "revenue": 79200.0
+    },
+    {
+      "date": "2026-07-28",
+      "revenue": 87500.0
+    },
+    {
+      "date": "2026-07-29",
+      "revenue": 92400.0
+    },
+    {
+      "date": "2026-07-30",
+      "revenue": 95000.0
+    },
+    {
+      "date": "2026-07-31",
+      "revenue": 96800.0
+    },
+    {
+      "date": "2026-08-01",
+      "revenue": 134400.0
+    },
+    {
+      "date": "2026-08-02",
+      "revenue": 140800.0
+    },
+    {
+      "date": "2026-08-03",
+      "revenue": 115000.0
+    },
+    {
+      "date": "2026-08-04",
+      "revenue": 125400.0
+    },
+    {
+      "date": "2026-08-05",
+      "revenue": 105600.0
+    },
+    {
+      "date": "2026-08-06",
+      "revenue": 124800.0
+    },
+    {
+      "date": "2026-08-07",
+      "revenue": 103200.0
+    },
+    {
+      "date": "2026-08-08",
+      "revenue": 135000.0
+    },
+    {
+      "date": "2026-08-09",
+      "revenue": 132000.0
+    },
+    {
+      "date": "2026-08-10",
+      "revenue": 93600.0
+    },
+    {
+      "date": "2026-08-11",
+      "revenue": 110400.0
+    },
+    {
+      "date": "2026-08-12",
+      "revenue": 112500.0
+    },
+    {
+      "date": "2026-08-13",
+      "revenue": 115200.0
+    },
+    {
+      "date": "2026-08-14",
+      "revenue": 132300.0
+    },
+    {
+      "date": "2026-08-15",
+      "revenue": 116600.0
+    },
+    {
+      "date": "2026-08-16",
+      "revenue": 105300.0
+    },
+    {
+      "date": "2026-08-17",
+      "revenue": 96800.0
+    },
+    {
+      "date": "2026-08-18",
+      "revenue": 103400.0
+    },
+    {
+      "date": "2026-08-19",
+      "revenue": 110400.0
+    },
+    {
+      "date": "2026-08-20",
+      "revenue": 112200.0
+    },
+    {
+      "date": "2026-08-21",
+      "revenue": 92400.0
+    },
+    {
+      "date": "2026-08-22",
+      "revenue": 132000.0
+    },
+    {
+      "date": "2026-08-23",
+      "revenue": 134200.0
+    },
+    {
+      "date": "2026-08-24",
+      "revenue": 126900.0
+    },
+    {
+      "date": "2026-08-25",
+      "revenue": 135000.0
+    },
+    {
+      "date": "2026-08-26",
+      "revenue": 108000.0
+    },
+    {
+      "date": "2026-08-27",
+      "revenue": 130000.0
+    },
+    {
+      "date": "2026-08-28",
+      "revenue": 124200.0
+    },
+    {
+      "date": "2026-08-29",
+      "revenue": 123200.0
+    },
+    {
+      "date": "2026-08-30",
+      "revenue": 101200.0
+    },
+    {
+      "date": "2026-08-31",
+      "revenue": 93600.0
+    },
+    {
+      "date": "2026-09-01",
+      "revenue": 99000.0
+    },
+    {
+      "date": "2026-09-02",
+      "revenue": 117500.0
+    },
+    {
+      "date": "2026-09-03",
+      "revenue": 108000.0
+    },
+    {
+      "date": "2026-09-04",
+      "revenue": 80000.0
+    },
+    {
+      "date": "2026-09-05",
+      "revenue": 134200.0
+    },
+    {
+      "date": "2026-09-06",
+      "revenue": 117600.0
+    },
+    {
+      "date": "2026-09-07",
+      "revenue": 87500.0
+    },
+    {
+      "date": "2026-09-08",
+      "revenue": 112500.0
+    },
+    {
+      "date": "2026-09-09",
+      "revenue": 101200.0
+    },
+    {
+      "date": "2026-09-10",
+      "revenue": 115200.0
+    },
+    {
+      "date": "2026-09-11",
+      "revenue": 132000.0
+    },
+    {
+      "date": "2026-09-12",
+      "revenue": 132500.0
+    },
+    {
+      "date": "2026-09-13",
+      "revenue": 145200.0
+    },
+    {
+      "date": "2026-09-14",
+      "revenue": 95000.0
+    },
+    {
+      "date": "2026-09-15",
+      "revenue": 105600.0
+    },
+    {
+      "date": "2026-09-16",
+      "revenue": 99000.0
+    },
+    {
+      "date": "2026-09-17",
+      "revenue": 96800.0
+    },
+    {
+      "date": "2026-09-18",
+      "revenue": 79200.0
+    },
+    {
+      "date": "2026-09-19",
+      "revenue": 140000.0
+    },
+    {
+      "date": "2026-09-20",
+      "revenue": 116100.0
+    },
+    {
+      "date": "2026-09-21",
+      "revenue": 91200.0
+    },
+    {
+      "date": "2026-09-22",
+      "revenue": 102500.0
+    },
+    {
+      "date": "2026-09-23",
+      "revenue": 103200.0
+    },
+    {
+      "date": "2026-09-24",
+      "revenue": 129600.0
+    },
+    {
+      "date": "2026-09-25",
+      "revenue": 92500.0
+    },
+    {
+      "date": "2026-09-26",
+      "revenue": 129600.0
+    },
+    {
+      "date": "2026-09-27",
+      "revenue": 122500.0
+    },
+    {
+      "date": "2026-09-28",
+      "revenue": 97500.0
+    },
+    {
+      "date": "2026-09-29",
+      "revenue": 130000.0
+    },
+    {
+      "date": "2026-09-30",
+      "revenue": 100000.0
+    },
+    {
+      "date": "2026-10-01",
+      "revenue": 124200.0
+    },
+    {
+      "date": "2026-10-02",
+      "revenue": 134400.0
+    },
+    {
+      "date": "2026-10-03",
+      "revenue": 125400.0
+    },
+    {
+      "date": "2026-10-04",
+      "revenue": 96000.0
+    },
+    {
+      "date": "2026-10-05",
+      "revenue": 82500.0
+    },
+    {
+      "date": "2026-10-06",
+      "revenue": 90000.0
+    },
+    {
+      "date": "2026-10-07",
+      "revenue": 118800.0
+    },
+    {
+      "date": "2026-10-08",
+      "revenue": 97200.0
+    },
+    {
+      "date": "2026-10-09",
+      "revenue": 82500.0
+    },
+    {
+      "date": "2026-10-10",
+      "revenue": 137500.0
+    },
+    {
+      "date": "2026-10-11",
+      "revenue": 115200.0
+    },
+    {
+      "date": "2026-10-12",
+      "revenue": 107500.0
+    },
+    {
+      "date": "2026-10-13",
+      "revenue": 115000.0
+    },
+    {
+      "date": "2026-10-14",
+      "revenue": 86400.0
+    },
+    {
+      "date": "2026-10-15",
+      "revenue": 116100.0
+    },
+    {
+      "date": "2026-10-16",
+      "revenue": 102600.0
+    },
+    {
+      "date": "2026-10-17",
+      "revenue": 110000.0
+    },
+    {
+      "date": "2026-10-18",
+      "revenue": 143100.0
+    },
+    {
+      "date": "2026-10-19",
+      "revenue": 88000.0
+    },
+    {
+      "date": "2026-10-20",
+      "revenue": 85000.0
+    },
+    {
+      "date": "2026-10-21",
+      "revenue": 108000.0
+    },
+    {
+      "date": "2026-10-22",
+      "revenue": 91800.0
+    },
+    {
+      "date": "2026-10-23",
+      "revenue": 105000.0
+    },
+    {
+      "date": "2026-10-24",
+      "revenue": 156600.0
+    },
+    {
+      "date": "2026-10-25",
+      "revenue": 148800.0
+    },
+    {
+      "date": "2026-10-26",
+      "revenue": 110400.0
+    },
+    {
+      "date": "2026-10-27",
+      "revenue": 120000.0
+    },
+    {
+      "date": "2026-10-28",
+      "revenue": 125400.0
+    }
+  ],
+  "sales_records": [
+    {
+      "date": "2026-07-01",
+      "units": 51,
+      "unit_price": 2200,
+      "promo": 1,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-07-02",
+      "units": 49,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-07-03",
+      "units": 39,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-07-04",
+      "units": 60,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-07-05",
+      "units": 61,
+      "unit_price": 2700,
+      "promo": 1,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-07-06",
+      "units": 46,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-07-07",
+      "units": 50,
+      "unit_price": 2500,
+      "promo": 1,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-07-08",
+      "units": 46,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-07-09",
+      "units": 33,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-07-10",
+      "units": 44,
+      "unit_price": 2700,
+      "promo": 1,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-07-11",
+      "units": 48,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-07-12",
+      "units": 49,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-07-13",
+      "units": 43,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-07-14",
+      "units": 37,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-07-15",
+      "units": 38,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-07-16",
+      "units": 41,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-07-17",
+      "units": 35,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-07-18",
+      "units": 47,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-07-19",
+      "units": 59,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-07-20",
+      "units": 37,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-07-21",
+      "units": 46,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-07-22",
+      "units": 35,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-07-23",
+      "units": 44,
+      "unit_price": 2500,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-07-24",
+      "units": 40,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-07-25",
+      "units": 52,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-07-26",
+      "units": 52,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-07-27",
+      "units": 36,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-07-28",
+      "units": 35,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-07-29",
+      "units": 42,
+      "unit_price": 2200,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-07-30",
+      "units": 38,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-07-31",
+      "units": 44,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-08-01",
+      "units": 56,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-08-02",
+      "units": 64,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-08-03",
+      "units": 46,
+      "unit_price": 2500,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-08-04",
+      "units": 57,
+      "unit_price": 2200,
+      "promo": 1,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-08-05",
+      "units": 44,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-08-06",
+      "units": 52,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-08-07",
+      "units": 43,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-08-08",
+      "units": 54,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-08-09",
+      "units": 60,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-08-10",
+      "units": 39,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-08-11",
+      "units": 46,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-08-12",
+      "units": 45,
+      "unit_price": 2500,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-08-13",
+      "units": 48,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-08-14",
+      "units": 49,
+      "unit_price": 2700,
+      "promo": 1,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-08-15",
+      "units": 53,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-08-16",
+      "units": 39,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-08-17",
+      "units": 44,
+      "unit_price": 2200,
+      "promo": 1,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-08-18",
+      "units": 47,
+      "unit_price": 2200,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-08-19",
+      "units": 46,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-08-20",
+      "units": 51,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-08-21",
+      "units": 42,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-08-22",
+      "units": 55,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-08-23",
+      "units": 61,
+      "unit_price": 2200,
+      "promo": 1,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-08-24",
+      "units": 47,
+      "unit_price": 2700,
+      "promo": 1,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-08-25",
+      "units": 50,
+      "unit_price": 2700,
+      "promo": 1,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-08-26",
+      "units": 45,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-08-27",
+      "units": 52,
+      "unit_price": 2500,
+      "promo": 1,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-08-28",
+      "units": 46,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-08-29",
+      "units": 56,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-08-30",
+      "units": 46,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-08-31",
+      "units": 39,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-09-01",
+      "units": 45,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-09-02",
+      "units": 47,
+      "unit_price": 2500,
+      "promo": 1,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-09-03",
+      "units": 45,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-09-04",
+      "units": 32,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-09-05",
+      "units": 61,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-09-06",
+      "units": 49,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-09-07",
+      "units": 35,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-09-08",
+      "units": 45,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-09-09",
+      "units": 46,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-09-10",
+      "units": 48,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-09-11",
+      "units": 55,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-09-12",
+      "units": 53,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-09-13",
+      "units": 66,
+      "unit_price": 2200,
+      "promo": 1,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-09-14",
+      "units": 38,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-09-15",
+      "units": 44,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-09-16",
+      "units": 45,
+      "unit_price": 2200,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-09-17",
+      "units": 44,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-09-18",
+      "units": 36,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-09-19",
+      "units": 56,
+      "unit_price": 2500,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-09-20",
+      "units": 43,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-09-21",
+      "units": 38,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-09-22",
+      "units": 41,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-09-23",
+      "units": 43,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-09-24",
+      "units": 48,
+      "unit_price": 2700,
+      "promo": 1,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-09-25",
+      "units": 37,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-09-26",
+      "units": 48,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-09-27",
+      "units": 49,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-09-28",
+      "units": 39,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-09-29",
+      "units": 52,
+      "unit_price": 2500,
+      "promo": 1,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-09-30",
+      "units": 40,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-10-01",
+      "units": 46,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-10-02",
+      "units": 56,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-10-03",
+      "units": 57,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-10-04",
+      "units": 40,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-10-05",
+      "units": 33,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-10-06",
+      "units": 36,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-10-07",
+      "units": 44,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-10-08",
+      "units": 36,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-10-09",
+      "units": 33,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-10-10",
+      "units": 55,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-10-11",
+      "units": 48,
+      "unit_price": 2400,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-10-12",
+      "units": 43,
+      "unit_price": 2500,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-10-13",
+      "units": 46,
+      "unit_price": 2500,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-10-14",
+      "units": 32,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-10-15",
+      "units": 43,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-10-16",
+      "units": 38,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-10-17",
+      "units": 50,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 0
+    },
+    {
+      "date": "2026-10-18",
+      "units": 53,
+      "unit_price": 2700,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-10-19",
+      "units": 40,
+      "unit_price": 2200,
+      "promo": 0,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-10-20",
+      "units": 34,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-10-21",
+      "units": 40,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-10-22",
+      "units": 34,
+      "unit_price": 2700,
+      "promo": 0,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-10-23",
+      "units": 42,
+      "unit_price": 2500,
+      "promo": 0,
+      "ad_spend": 2000
+    },
+    {
+      "date": "2026-10-24",
+      "units": 58,
+      "unit_price": 2700,
+      "promo": 1,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-10-25",
+      "units": 62,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 1000
+    },
+    {
+      "date": "2026-10-26",
+      "units": 46,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 500
+    },
+    {
+      "date": "2026-10-27",
+      "units": 50,
+      "unit_price": 2400,
+      "promo": 1,
+      "ad_spend": 1500
+    },
+    {
+      "date": "2026-10-28",
+      "units": 57,
+      "unit_price": 2200,
+      "promo": 1,
+      "ad_spend": 1500
+    }
+  ],
+  "forecast": {
+    "date": "2026-10-29",
+    "estimated_units": 37.7,
+    "warnings": [],
+    "evaluation": {
+      "train_rows": 96,
+      "test_rows": 24,
+      "train_end": "2026-10-04",
+      "test_start": "2026-10-05",
+      "mae_units": 2.902,
+      "rmse_units": 3.699,
+      "baseline_mae_units": 7.715,
+      "holdout": [
+        {
+          "date": "2026-10-05",
+          "actual": 33,
+          "predicted": 37.33
+        },
+        {
+          "date": "2026-10-06",
+          "actual": 36,
+          "predicted": 37.59
+        },
+        {
+          "date": "2026-10-07",
+          "actual": 44,
+          "predicted": 44.64
+        },
+        {
+          "date": "2026-10-08",
+          "actual": 36,
+          "predicted": 36.24
+        },
+        {
+          "date": "2026-10-09",
+          "actual": 33,
+          "predicted": 36.02
+        },
+        {
+          "date": "2026-10-10",
+          "actual": 55,
+          "predicted": 53.62
+        },
+        {
+          "date": "2026-10-11",
+          "actual": 48,
+          "predicted": 48.18
+        },
+        {
+          "date": "2026-10-12",
+          "actual": 43,
+          "predicted": 46.29
+        },
+        {
+          "date": "2026-10-13",
+          "actual": 46,
+          "predicted": 46.33
+        },
+        {
+          "date": "2026-10-14",
+          "actual": 32,
+          "predicted": 36.94
+        },
+        {
+          "date": "2026-10-15",
+          "actual": 43,
+          "predicted": 45.21
+        },
+        {
+          "date": "2026-10-16",
+          "actual": 38,
+          "predicted": 36.45
+        },
+        {
+          "date": "2026-10-17",
+          "actual": 50,
+          "predicted": 52.63
+        },
+        {
+          "date": "2026-10-18",
+          "actual": 53,
+          "predicted": 49.02
+        },
+        {
+          "date": "2026-10-19",
+          "actual": 40,
+          "predicted": 42.05
+        },
+        {
+          "date": "2026-10-20",
+          "actual": 34,
+          "predicted": 37.75
+        },
+        {
+          "date": "2026-10-21",
+          "actual": 40,
+          "predicted": 44.64
+        },
+        {
+          "date": "2026-10-22",
+          "actual": 34,
+          "predicted": 36.24
+        },
+        {
+          "date": "2026-10-23",
+          "actual": 42,
+          "predicted": 45.76
+        },
+        {
+          "date": "2026-10-24",
+          "actual": 58,
+          "predicted": 52.3
+        },
+        {
+          "date": "2026-10-25",
+          "actual": 62,
+          "predicted": 52.25
+        },
+        {
+          "date": "2026-10-26",
+          "actual": 46,
+          "predicted": 45.92
+        },
+        {
+          "date": "2026-10-27",
+          "actual": 50,
+          "predicted": 50.81
+        },
+        {
+          "date": "2026-10-28",
+          "actual": 57,
+          "predicted": 50.43
+        }
+      ]
+    }
+  },
+  "cleaning_notes": [
+    "Removed 0 exact duplicate rows.",
+    "Removed 0 exact duplicate rows."
+  ]
+}

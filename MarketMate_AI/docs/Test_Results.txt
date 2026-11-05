@@ -1,0 +1,31 @@
+test_bad_origin_and_bad_payload (test_http.HTTPTests.test_bad_origin_and_bad_payload) ... ok
+test_demo_page_and_analysis (test_http.HTTPTests.test_demo_page_and_analysis) ... ok
+test_prompt_and_model_failure (test_http.HTTPTests.test_prompt_and_model_failure) ... ok
+test_vision_routing_with_mock_and_bad_image (test_http.HTTPTests.test_vision_routing_with_mock_and_bad_image) ... ok
+test_chronological_split_no_test_label_leakage (test_project.ProjectTests.test_chronological_split_no_test_label_leakage) ... ok
+test_duplicate_and_missing_columns (test_project.ProjectTests.test_duplicate_and_missing_columns) ... ok
+test_invalid_values (test_project.ProjectTests.test_invalid_values) ... ok
+test_prompt_disclosure_and_evidence (test_project.ProjectTests.test_prompt_disclosure_and_evidence) ... ok
+test_revenue_and_weighted_engagement (test_project.ProjectTests.test_revenue_and_weighted_engagement) ... ok
+test_scenario_and_small_dataset (test_project.ProjectTests.test_scenario_and_small_dataset) ... ok
+test_zero_denominators (test_project.ProjectTests.test_zero_denominators) ... ok
+
+----------------------------------------------------------------------
+Ran 11 tests in 2.031s
+
+OK
+
+Additional checks:
+- Browser JavaScript syntax: passed with Node --check.
+- Frontend render smoke check and CSV quoted-field/invalid-header cases: passed in a simulated DOM.
+- Every notebook code cell: executed successfully.
+- Demo generator: reproduced delivered CSV bytes exactly.
+- Report PDF: 10 pages rendered and visually reviewed.
+- Presentation: 5 slides rendered and reviewed, PPTX structure and native chart workbook validated.
+
+Limits:
+- Simulated DOM checks do not replace testing in a real browser.
+- Browser QA unavailable because managed preview could not access Python.
+- Llama response in the image routing test is mocked and labelled MOCK ONLY.
+- No successful Llama text or vision inference was executed.
+- No real-user validation, campaign publishing or business-impact measurement was performed.
